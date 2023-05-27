@@ -2,6 +2,7 @@
 // Created by Asus on 22.05.2023.
 //
 
+#pragma once
 #include "../include/stack.h"
 
 List_t *listInit(){
